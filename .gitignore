@@ -196,3 +196,9 @@ examples/models/*
 *.png
 *.json
 diffs/
+
+# Local configuration files
+Scripts/
+Include/
+Lib/
+pyvenv.cfg
