@@ -202,3 +202,10 @@ Scripts/
 Include/
 Lib/
 pyvenv.cfg
+share/
+
+# Jupyter Notebook files
+*.ipynb_checkpoints
+
+# data files
+data/
